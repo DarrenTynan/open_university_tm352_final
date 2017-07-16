@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.BlueBusGames.MegaMaxSale"
+        },
+        "cordova-plugin-googlemaps": {
+            "API_KEY_FOR_ANDROID": "AIzaSyDUy6edVhDqIWWvGAudCzXG7ZV3udOVbnk",
+            "PACKAGE_NAME": "com.TM352EME.MegaMaxSales"
+        },
+        "cordova-plugin-nativegeocoder": {
+            "PACKAGE_NAME": "com.TM352EME.MegaMaxSales"
+        }
+    },
+    "dependent_plugins": {}
+}
